@@ -12,7 +12,9 @@ ___
 
 ___
 ### About myself:
-  Learning stage0 and i want to finish stage1,2 in RSSchool.
+  
+ Engineer, higher technical education KhPI, Kharkov, Ukraine.
+
  Before the war in Ukraine, they created 2 cool sites that are in the top 10 of Google _without_ knowledge of html, scc and javascript.
  
  Here are the links: 
